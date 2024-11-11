@@ -23,4 +23,4 @@ this is the application created using [Vite](https://vitejs.dev/) and [React](ht
 
 ## gitgub
 
-https://github.com/ashishkumarjha/react_online_test
+https://github.com/shubhamyadav2596/react_assign_conqt.git
